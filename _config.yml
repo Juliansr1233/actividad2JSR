@@ -22,8 +22,8 @@ title: Actividad2julian
 email: julian.sainzrodriguez@iesmiguelherreo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta es la descripción de Julián Sainz Rodríguez
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/actividad2JSR" # the subpath of your site, e.g. /blog
+url: "https://Juliansr1233.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Julian
 github_username: JulianSR1233
 
